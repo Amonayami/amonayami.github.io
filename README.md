@@ -1,1 +1,1 @@
-https://github.com/Amonayami/ono-tebe-nado
+https://github.com/Amonayami/posmotri-v-okno-fd
